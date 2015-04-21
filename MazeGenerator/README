@@ -1,0 +1,2 @@
+To generate a maze, enter the dimension (5 gives you a 5x5 maze). 
+To view as something a little more exciting, redirect this output to a.out
